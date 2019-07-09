@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sofia Pozsonyiova on Academic</title>
+    <title>Sofia Pozsonyiova</title>
     <link>/authors/sofia-pozsonyiova/</link>
-    <description>Recent content in Sofia Pozsonyiova on Academic</description>
+    <description>Recent content on Sofia Pozsonyiova</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
     
 	    <atom:link href="/authors/sofia-pozsonyiova/index.xml" rel="self" type="application/rss+xml" />
     
