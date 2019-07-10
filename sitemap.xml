@@ -207,7 +207,17 @@
   </url>
   
   <url>
+    <loc>/cv/cv_web/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
