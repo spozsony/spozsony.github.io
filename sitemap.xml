@@ -100,12 +100,17 @@
   </url>
   
   <url>
-    <loc>/project/another-project/</loc>
+    <loc>/project/classification_soil/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/electro-project/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/epi-project/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -120,22 +125,22 @@
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/outside-project/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/publication-project/</loc>
+    <loc>/project/penny-projecy/copyofindex/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/summer-project/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/visualization-project/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
   </url>
   

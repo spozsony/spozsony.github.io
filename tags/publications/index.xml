@@ -14,10 +14,37 @@
     
     <item>
       <title></title>
-      <link>/project/publication-project/</link>
+      <link>/project/electro-project/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/publication-project/</guid>
+      <guid>/project/electro-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/outside-project/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/outside-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/penny-projecy/copyofindex/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/penny-projecy/copyofindex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/visualization-project/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/visualization-project/</guid>
       <description></description>
     </item>
     

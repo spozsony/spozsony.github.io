@@ -371,10 +371,10 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/project/another-project/</link>
+      <link>/project/classification_soil/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/another-project/</guid>
+      <guid>/project/classification_soil/</guid>
       <description></description>
     </item>
     
@@ -384,6 +384,15 @@ $$&lt;/p&gt;
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/electro-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/epi-project/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/epi-project/</guid>
       <description></description>
     </item>
     
@@ -407,15 +416,6 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/project/internal-project/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/internal-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/project/outside-project/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -425,10 +425,10 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/project/publication-project/</link>
+      <link>/project/penny-projecy/copyofindex/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/publication-project/</guid>
+      <guid>/project/penny-projecy/copyofindex/</guid>
       <description></description>
     </item>
     
@@ -438,6 +438,15 @@ $$&lt;/p&gt;
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/summer-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/visualization-project/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/visualization-project/</guid>
       <description></description>
     </item>
     
