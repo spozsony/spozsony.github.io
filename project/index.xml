@@ -7,90 +7,78 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>/project/classification_soil/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Adolescent Vaping</title>
+      <link>/project/project-cap/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/classification_soil/</guid>
-      <description></description>
+      <guid>/project/project-cap/</guid>
+      <description>
+
+
+&lt;p&gt;The project that best highlights my interests is my capstone, a yearlong senior research project that was done in collaboration with the Minnesota Health Department. My capstone combines spatial and repeated measures methods to analyze parent-adolescent relationships to be able to predict adolescent e-cigarette usage. Specifically, I am seeing if adolescents in Minnesota who have negative parental at-home environments have a higher risk of engaging with e-cigarette products on a county and individual level. Given the magnitude of the epidemic, my research is rather preliminary, but it did still illuminate the need to rethink parental intervention, because it can actually increase the chances of an adolescent smoking on the individual level. This, by far, has been one of my favorite projects as it has allowed me to work extensively with R software, utilize problem-based learning, and make a direct contribution to my field of study within my own community.&lt;/p&gt;
+&lt;p&gt;If you are interested in learning about our results please feel free to send me a message!&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/project/electro-project/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Congressional Campaign Financing</title>
+      <link>/project/congress/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/electro-project/</guid>
-      <description></description>
+      <guid>/project/congress/</guid>
+      <description>
+
+
+&lt;p&gt;For this project I researched the relationships and trends found between campaign financing and various candidate characteristics. In order to study the campaign finance and ideology that arises within American politics, I used Stanford’s Database on Ideology, Money in Politics, and Elections (DIME). The database contains over 130 million entries regarding political congressional campaign contributions spanning a period from 1979 to 2014 and was created as a part of an ongoing project on Ideology in the Political Marketplace.&lt;/p&gt;
+&lt;p&gt;Due to correlation involved with candidates’ repeated campaign runs, I was unable to effectively use a traditional regression model. Therefore, a marginal model had to be implemeneted. In my analysis, I considered five sets of predictors of increasing complexity. In the end I found a model which included an interaction between general election percentage and an identity matrix multiplied by the conditional of the general election percentage,the logged number of givers, decade, and recipient cf-score to be my best attempt at modelling a congressional candidate’s total raised receipts.&lt;/p&gt;
+&lt;p&gt;What I found is that dandidates who have more givers and are more moderate have a leg up on their competitors with regards to fundraising. Furthermore, candidates who have tougher campaigns ahead of them, or more specifically, candidates who achieve 50% or fewer of the general election votes, appear to rely very heavily on receipts in order to achieve higher percentages of the votes in the general election.Unfortunately, I was unable to observe the effects of gender on campaign funding due to the low percentage of women in our campaign data, but it is an important variable that I hope to look into later on!&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/project/epi-project/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Diggity Daggity</title>
+      <link>/project/dag/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/epi-project/</guid>
-      <description></description>
+      <guid>/project/dag/</guid>
+      <description>
+
+
+&lt;p&gt;Daggity is an awesome online tool that I recently learned about that helps you simplify the causal discovery process. That said, this semester I created a DAG to understand the affect of comprehensive education on adolescent sexual activity. Specifically, I was looking at if schools that include comprehensive sex education courses have higher rates of sexually active adolescents? My DAG is the initial step in my causal discovery process and highlights some of the potential confounders and mediators that might arise in the actual study.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/project/healing-project/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <title>LIBS Classification</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/healing-project/</guid>
-      <description></description>
+      <guid>/project/internal-project/</guid>
+      <description>
+
+
+&lt;p&gt;My research primarily focuses on integrating machine learning and statistics methods to improve the interpretation and classification of laser induced breakdown spectroscopy (LIBS) data. Laser-induced breakdown spectroscopy (LIBS) relies on data visualizations to interpret experimental results of spectra data. Dendrograms are most commonly used for this task, however, there are a number of algorithmic issues that arise with this method. Thus, to limit the practical issues that arise within hierarchical clustering methods, my team integrated unsupervised learning methods to more effectively visualize and analyze LIBS spectra data!&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/project/healthpsych-project/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Naive Bayes</title>
+      <link>/project/rain/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/healthpsych-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/project/outside-project/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/outside-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/project/penny-projecy/copyofindex/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/penny-projecy/copyofindex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/project/summer-project/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/summer-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/project/visualization-project/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/visualization-project/</guid>
-      <description></description>
+      <guid>/project/rain/</guid>
+      <description>
+
+
+&lt;p&gt;For this mini project I used dated obtained from the Australian Commonwealth Bureau of Meteorology to predict if it will “rain tomorrow” in Australia. Out of all the variables within the dataset I chose to focus on if it rained or not today, the humidity at 9am, and the humidity at 3pm. That said, using Naive Bayes tools I tried predicting if it would rain in Australia tomorrow based on the fact that it did rain today, the humidity at 9am was around 60, and humidity around 3pm was 40.&lt;/p&gt;
+&lt;p&gt;The posterior predictive distribution for Y which is the binary outcome of whether or not it rained tomorrow, showed that there is a much higher chance for no rain then rain. Overall, my posterior classifications have an accuracy rate of approximately 78%. However, whereas I accurately classify 96% of non-rainy days I only accurately classify roughly 50% of rainy days. I hope to improve my model so that I can better classify rainy days!&lt;/p&gt;
+</description>
     </item>
     
   </channel>
